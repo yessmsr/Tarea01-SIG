@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "coords",
+"features": [
+{ "type": "Feature", "properties": { "cat": 1 }, "geometry": { "type": "Point", "coordinates": [ 0.0, 200.0 ] } },
+{ "type": "Feature", "properties": { "cat": 2 }, "geometry": { "type": "Point", "coordinates": [ 0.0, 200.0 ] } },
+{ "type": "Feature", "properties": { "cat": 3 }, "geometry": { "type": "Point", "coordinates": [ 0.0, 200.0 ] } },
+{ "type": "Feature", "properties": { "cat": 4 }, "geometry": { "type": "Point", "coordinates": [ 0.0, 200.0 ] } }
+]
+}
