@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "rectas",
+"features": [
+{ "type": "Feature", "properties": { "num": "1", "label": "Avenida 4", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0, 200.0 ], [ 700.0, 200.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "2", "label": "Avenida 2", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0, 300.0 ], [ 700.0, 300.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "3", "label": "Avenida centra", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0, 400.0 ], [ 700.0, 400.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "4", "label": "Avenida 1", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0, 500.0 ], [ 700.0, 500.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "5", "label": "Avenida 3", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0, 600.0 ], [ 700.0, 600.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "6", "label": "Calle 4", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 100.0, 100.0 ], [ 100.0, 700.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "7", "label": "Calle 2", "field_3": " " }, "geometry": { "type": "LineString", "coordinates": [ [ 200.0, 100.0 ], [ 200.0, 700.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "8", "label": "Calle central", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 300.0, 100.0 ], [ 300.0, 700.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "9", "label": "Calle 1", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 400.0, 100.0 ], [ 400.0, 700.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "10", "label": "Calle 3", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 500.0, 100.0 ], [ 500.0, 700.0 ] ] } },
+{ "type": "Feature", "properties": { "num": "11", "label": "calle 5", "field_3": null }, "geometry": { "type": "LineString", "coordinates": [ [ 600.0, 100.0 ], [ 600.0, 700.0 ] ] } }
+]
+}
